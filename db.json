@@ -1,10 +1,10 @@
 {
     "red": [
-      { "id": 1, "messages": { "attachment":{"type":"text", "payload":{"text":"You picked red 1" }}} },
-      { "id": 2, "messages": { "attachment":{"type":"text", "payload":{"text":"You picked red 2" }}} }
+      { "id": 1, ["message": { "attachment":{"type":"text", "payload":{"text":"You picked red 1" }}} }],
+      { "id": 2, ["message": { "attachment":{"type":"text", "payload":{"text":"You picked red 2" }}} }]
     ],
     "blue": [
-    { "id": 1, "messages": { "attachment":{"type":"text", "payload":{"text":"You picked blue 1" }}} },
-    { "id": 2, "messages": { "attachment":{"type":"text", "payload":{"text":"You picked blue 2" }}} }
+    { "id": 1, "message": { "attachment":{"type":"text", "payload":{"text":"You picked blue 1" }}} },
+    { "id": 2, "message": { "attachment":{"type":"text", "payload":{"text":"You picked blue 2" }}} }
     ]
 }
