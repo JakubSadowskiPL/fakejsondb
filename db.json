@@ -2,7 +2,7 @@
   "color": [
     [
       "red": {
-            id: [
+            "id": [
                 "1": {
                     "message":{
                     "text":"You pick red 1"
@@ -16,7 +16,7 @@
                 ]
              },
      "blue": {
-            id: [
+            "id": [
                 "1": {
                     "message":{
                     "text":"You pick blue 1"
