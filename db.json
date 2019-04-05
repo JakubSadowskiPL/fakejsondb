@@ -1,0 +1,34 @@
+{
+  "color": [
+    [
+      "red": {
+            id: [
+                "1": {
+                    "message":{
+                    "text":"You pick red 1"
+                              }
+                     },
+                "2": {
+                    "message":{
+                    "text":"You pick red 2"
+                              }
+                     }
+                ]
+             },
+     "blue": {
+            id: [
+                "1": {
+                    "message":{
+                    "text":"You pick blue 1"
+                              }
+                     },
+                "2": {
+                    "message":{
+                    "text":"You pick blue 2"
+                              }
+                     }
+                ]
+             } 
+    ]   
+          ]
+}
